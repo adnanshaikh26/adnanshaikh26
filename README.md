@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate software developer from India
+Frontend End Developer | React Developer 
 
 
 ## 🌐 Socials:
